@@ -28,55 +28,55 @@
         </LABEL_FISH_DESC>
     </frmDirections>
     <frmMain>
-        <BUTTON_START>Start</BUTTON_START>
-        <BUTTON_RESUME>Resume</BUTTON_RESUME>
-        <BUTTON_STOP>Stop</BUTTON_STOP>
-        <BUTTON_PAUSE>Pause</BUTTON_PAUSE>
-        <BUTTON_SETTINGS>Settings</BUTTON_SETTINGS>
-        <BUTTON_STATISTICS>Statistics</BUTTON_STATISTICS>
-        <BUTTON_HTU>How to Use</BUTTON_HTU>
-        <BUTTON_EXIT>Exit</BUTTON_EXIT>
-	<BUTTON_ABOUT>About</BUTTON_ABOUT>
+        <BUTTON_START>开始</BUTTON_START>
+        <BUTTON_RESUME>继续</BUTTON_RESUME>
+        <BUTTON_STOP>停止</BUTTON_STOP>
+        <BUTTON_PAUSE>暂停</BUTTON_PAUSE>
+        <BUTTON_SETTINGS>设置</BUTTON_SETTINGS>
+        <BUTTON_STATISTICS>统计</BUTTON_STATISTICS>
+        <BUTTON_HTU>简明教程</BUTTON_HTU>
+        <BUTTON_EXIT>退出</BUTTON_EXIT>
+	<BUTTON_ABOUT>关于</BUTTON_ABOUT>
 
-        <LABEL_STARTED>Started</LABEL_STARTED>
-        <LABEL_RESUMED>Resumed</LABEL_RESUMED>
-        <LABEL_PAUSED>Paused</LABEL_PAUSED>
-        <LABEL_STOPPED>Stopped</LABEL_STOPPED>
+        <LABEL_STARTED>开始</LABEL_STARTED>
+        <LABEL_RESUMED>重新开始</LABEL_RESUMED>
+        <LABEL_PAUSED>暂停</LABEL_PAUSED>
+        <LABEL_STOPPED>停止</LABEL_STOPPED>
 
-        <LABEL_CHECKING_STATUS>Checking Status...</LABEL_CHECKING_STATUS>
-        <LABEL_NO_LONGER_SAFE>This bot is no longer safe. Do not use on public servers!</LABEL_NO_LONGER_SAFE>
-        <LABEL_COULD_NOT_CHECK_STATUS>Could not verify status! Use at own risk...</LABEL_COULD_NOT_CHECK_STATUS>
+        <LABEL_CHECKING_STATUS>检查状态...</LABEL_CHECKING_STATUS>
+        <LABEL_NO_LONGER_SAFE>该辅助已经不安全，请勿用于公开服务器!</LABEL_NO_LONGER_SAFE>
+        <LABEL_COULD_NOT_CHECK_STATUS>无法验证状态！使用者自担风险。。。</LABEL_COULD_NOT_CHECK_STATUS>
     </frmMain>
     <manager>
-        <LABEL_HEAR_FISH>I hear a fish!</LABEL_HEAR_FISH>
-        <LABEL_CASTING>Casting...</LABEL_CASTING>
-        <LABEL_START_FINDING>Start searching...</LABEL_START_FINDING>
-        <LABEL_FINDING>Searching...</LABEL_FINDING>
-        <LABEL_WAITING>Waiting for fish ({0}/{1}s) ...</LABEL_WAITING>
+        <LABEL_HEAR_FISH>我听到有鱼上钩!</LABEL_HEAR_FISH>
+        <LABEL_CASTING>钓鱼...</LABEL_CASTING>
+        <LABEL_START_FINDING>开始寻找...</LABEL_START_FINDING>
+        <LABEL_FINDING>搜索中...</LABEL_FINDING>
+        <LABEL_WAITING>等鱼上钩 ({0}/{1}s) ...</LABEL_WAITING>
 
-        <LABEL_HEARTHSTONE>Done fishing - Hearthing...</LABEL_HEARTHSTONE>
-        <LABEL_APPLY_LURE>Applying lure...</LABEL_APPLY_LURE>
-        <LABEL_APPLY_CHARM> Applying charm...</LABEL_APPLY_CHARM>
-        <LABEL_APPLY_RAFT>Applying raft...</LABEL_APPLY_RAFT>
-        <LABEL_APPLY_BAIT>Applying bait {0}...</LABEL_APPLY_BAIT>
+        <LABEL_HEARTHSTONE>完成钓鱼 - 炉石...</LABEL_HEARTHSTONE>
+        <LABEL_APPLY_LURE>使用诱饵...</LABEL_APPLY_LURE>
+        <LABEL_APPLY_CHARM>使用魅力...</LABEL_APPLY_CHARM>
+        <LABEL_APPLY_RAFT>使用木筏...</LABEL_APPLY_RAFT>
+        <LABEL_APPLY_BAIT>使用鱼饵 {0}...</LABEL_APPLY_BAIT>
     </manager>
     <frmSettings>
-        <TITLE>Settings</TITLE>
+        <TITLE>设置</TITLE>
 
         <!-- Tabs Titles -->
-        <TAB_TITLE_GENERAL_FISHING>General Fishing</TAB_TITLE_GENERAL_FISHING>
-        <TAB_TITLE_FIND_CURSOR>Finding Cursor</TAB_TITLE_FIND_CURSOR>
-        <TAB_TITLE_HEARING_FISH>Hearing Fish</TAB_TITLE_HEARING_FISH>
-        <TAB_TITLE_PREMIUM>Key Binds</TAB_TITLE_PREMIUM>
-        <TAB_TITLE_ANTI_AFK>Anti-Afk</TAB_TITLE_ANTI_AFK>
+        <TAB_TITLE_GENERAL_FISHING>钓鱼</TAB_TITLE_GENERAL_FISHING>
+        <TAB_TITLE_FIND_CURSOR>鱼漂寻找</TAB_TITLE_FIND_CURSOR>
+        <TAB_TITLE_HEARING_FISH>钓鱼监听</TAB_TITLE_HEARING_FISH>
+        <TAB_TITLE_PREMIUM>按键绑定</TAB_TITLE_PREMIUM>
+        <TAB_TITLE_ANTI_AFK>防止Afk</TAB_TITLE_ANTI_AFK>
         <TAB_TITLE_LANGUAGE>Language</TAB_TITLE_LANGUAGE>
 
         <!-- General Fishing -->
-        <LABEL_DELAY_AFTER_CAST>Delay After Cast:</LABEL_DELAY_AFTER_CAST>
-        <LABEL_DELAY_AFTER_CAST_DESC>The number of milliseconds to wait after the cast before searching. Too short and you'll skip the bobber, too long and you'll waste time.</LABEL_DELAY_AFTER_CAST_DESC>
+        <LABEL_DELAY_AFTER_CAST>钓鱼施法后延迟:</LABEL_DELAY_AFTER_CAST>
+        <LABEL_DELAY_AFTER_CAST_DESC>钓鱼施法之后、开始搜寻鱼漂之前的等待时间（毫秒）。太短容易让你跳过浮漂，太长会浪费时间。</LABEL_DELAY_AFTER_CAST_DESC>
 
-        <LABEL_FISH_WAIT_LIMIT>Fish Wait Limit:</LABEL_FISH_WAIT_LIMIT>
-        <LABEL_FISH_WAIT_LIMIT_DESC>The number of milliseconds to listen for a fish before giving up. Too long - decreases bot's effectiveness, too short and you miss fish.</LABEL_FISH_WAIT_LIMIT_DESC>
+        <LABEL_FISH_WAIT_LIMIT>钓鱼时间限制:</LABEL_FISH_WAIT_LIMIT>
+        <LABEL_FISH_WAIT_LIMIT_DESC>放弃钓鱼之前等待的时间（毫秒）。太长会降低程序的效率，太短会漏鱼。</LABEL_FISH_WAIT_LIMIT_DESC>
 
         <LABEL_DELAY_AFTER_LOOTING>Delay After Looting:</LABEL_DELAY_AFTER_LOOTING>
         <LABEL_DELAY_AFTER_LOOTING_DESC>The number of milliseconds to wait after looting a fish.</LABEL_DELAY_AFTER_LOOTING_DESC>
