@@ -1,30 +1,30 @@
 <translation>
     <frmCode>
-        <TITLE>Thanks for using the UltimateFishBot</TITLE>
-        <LIBELLE_TITLE>Relax... It's still free!</LIBELLE_TITLE>
-        <LIBELLE_DESC>You've used the Ultimate Fishbot {0} times. To continue using it; you need to visit the Fishbot website and enter the 3-5 digit code in the box below.  If a browser window didn't open, you can find it at www.fishbot.net/code.html - or click the link below.  I promise, it's quick and painless.</LIBELLE_DESC>
-        <LIBELLE_TRY_AGAIN>Try again!</LIBELLE_TRY_AGAIN>
-        <LIBELLE_ENTER>Enter</LIBELLE_ENTER>
+        <TITLE>感谢使用UltimateFishBot</TITLE>
+        <LIBELLE_TITLE>放轻松。。。该软件仍然是免费的!</LIBELLE_TITLE>
+        <LIBELLE_DESC>您已经使用Ultimate Fishbot{0}次。 为了继续使用它，你需要访问Fishbot网站并输入下方的3-5位数字。如果浏览器窗口无法打开，请访问 www.fishbot.net/code.html - 或点击以下的链接。我保证，这一过程快速且无痛。</LIBELLE_DESC>
+        <LIBELLE_TRY_AGAIN>再试一次!</LIBELLE_TRY_AGAIN>
+        <LIBELLE_ENTER>输入</LIBELLE_ENTER>
     </frmCode>
     <frmDirections>
-        <TITLE>How to Use</TITLE>
-        <LABEL_SETTING_WOW_TITLE>1.)  Setting Up WoW</LABEL_SETTING_WOW_TITLE>
+        <TITLE>简明教程</TITLE>
+        <LABEL_SETTING_WOW_TITLE>1.)  设置魔兽世界</LABEL_SETTING_WOW_TITLE>
         <LABEL_SETTING_WOW_DESC>
-            * Equip your Fishing Pole
-            * Place Fishing in the #1 Slot on your action bar
-            * Set the Master Volume to 100%.  Sound to High, Music to Low, Ambience to Low
-            * Put WoW into Windowed mode and shrink the screen as much as possible
+            * 靠近水池
+            * 把钓鱼技能放到技能栏#1的位置
+            * 在系统-声音选项卡中，把主音量调整到100%，声音调高，音乐调低，环境音调低
+            * 把游戏改为窗口模式，并尽可能缩小游戏的画面
         </LABEL_SETTING_WOW_DESC>
-        <LABEL_FIND_LOCATION_TITLE>2.)  Find a Location</LABEL_FIND_LOCATION_TITLE>
+        <LABEL_FIND_LOCATION_TITLE>2.)  寻找钓鱼地点</LABEL_FIND_LOCATION_TITLE>
         <LABEL_FIND_LOCATION_DESC>
-            * Walk to some lake/water
-            * Zoom in as much as possible
-            * Find a location with as little sound as possible
-            * Avoid locations with anything that changes the mouse icon
+            * 走到湖边/水边
+            * 尽可能放大人物角色的视角
+            * 找到一处环境音尽量小的地点
+            * 避免其他任何有可能改变光标的东西
         </LABEL_FIND_LOCATION_DESC>
-        <LABEL_FISH_TITLE>3.)  Fish!</LABEL_FISH_TITLE>
+        <LABEL_FISH_TITLE>3.)  开始钓鱼!</LABEL_FISH_TITLE>
         <LABEL_FISH_DESC>
-            * Press Start, sit back, and let The Gorton's Fisherman handle things.
+            * 点击开始, 往后坐, 让Gorton's Fisherman处理一切！
         </LABEL_FISH_DESC>
     </frmDirections>
     <frmMain>
